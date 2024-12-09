@@ -1,4 +1,5 @@
 # AxelBot
+# Author: K.Rose
 
 AxelBot is a Node.js-based bot that can be used for various purposes. Below are instructions to set up and run the bot.
 
@@ -19,7 +20,7 @@ AxelBot is a Node.js-based bot that can be used for various purposes. Below are 
     npm install
     ```
 
-3. Configure any necessary API keys or environment variables.
+3. Create an `.env` file in the root directory for environment variables, such as API keys.
 
 4. Run the bot:
     ```bash
